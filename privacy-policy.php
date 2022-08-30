@@ -39,7 +39,7 @@
     </style>
   </head>
   <body>
-    <div class="bm-loader"><img src="/assets/img/bm.svg" alt="bizagencyusa.com esta cargando..."></div>
+    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="bizagencyusa.com esta cargando..."></div>
     <?php include 'includes/menu.php'; ?>
     <div class="navbar-sentinel"></div>
     <div class="wrapper">
@@ -259,7 +259,7 @@
                                  <div class="informationmain-right-content">
                                  <p>Use of the <?= $GLOBALS['vars']['company_name']?> text message-based services (the “Service”) is subject to the following Terms of Service. These terms constitute a legal agreement (the “Agreement”). Please read them carefully.<br><br>
 
-                                     <?= $GLOBALS['vars']['company_name']?> will allow several different opportunities, such as a entering a phone number online, to opt-in to SMS services.  The opt-in received will be 'TEXT JOIN to sign up to receive Notifications from Biz Agency USA.'<br><br>
+                                     <?= $GLOBALS['vars']['company_name']?> will allow several different opportunities, such as a entering a phone number online, to opt-in to SMS services.  The opt-in received will be 'TEXT JOIN to sign up to receive Notifications from BizAgencyUSA.'<br><br>
 
                                  You can cancel the Service at any time. Just text "STOP". After you send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, just sign up as you did the first time, and we will start sending SMS messages to you again.<br><br>
 

@@ -42,7 +42,7 @@
     </style>
   </head>
   <body>
-    <div class="bm-loader"><img src="/assets/img/bm.svg" alt="bizagencyusa.com esta cargando..."></div>
+    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="bizagencyusa.com esta cargando..."></div>
     <?php include 'includes/menu.php'; ?>
     <div class="navbar-sentinel"></div>
     <div class="wrapper">

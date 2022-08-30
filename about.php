@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="theme-color" content="#f7941d">
-    <title>We advertise your business to attract customers - Biz Agency USA</title>
+    <title>We advertise your business to attract customers - BizAgencyUSA</title>
     <meta name="description" content="The goal of our marketing strategy is to help your business grow. Your brand will be strengthened and exposed to the world with our help. The right use of digital or printed media can take your business to the next level.">
     <meta name="robots" content="index,follow">
     <meta name="author" content="bizagencyusa.com">
     <link rel="canonical" href="index.php">
-    <meta property="og:title" content="We advertise your business to attract customers - Biz Agency USA ">
+    <meta property="og:title" content="We advertise your business to attract customers - BizAgencyUSA ">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.bizagencyusa.com/about/">
     <meta property="og:description" content="The goal of our marketing strategy is to help your business grow. Your brand will be strengthened and exposed to the world with our help. The right use of digital or printed media can take your business to the next level.">
@@ -18,7 +18,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="">
     <meta name="twitter:url" content="https://www.bizagencyusa.com/about/">
-    <meta name="twitter:title" content="We advertise your business to attract customers - Biz Agency USA ">
+    <meta name="twitter:title" content="We advertise your business to attract customers - BizAgencyUSA ">
     <meta name="twitter:description" content="The goal of our marketing strategy is to help your business grow. Your brand will be strengthened and exposed to the world with our help. The right use of digital or printed media can take your business to the next level.">
  
     <?php include 'includes/css.php'; ?>
