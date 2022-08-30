@@ -45,8 +45,6 @@
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-85358335-1"></script>
 
 <body>
-	<!-- <div class="bm-loader"><img src="https://d33wubrfki0l68.cloudfront.net/bea16dca708dba7a9eecbf4f9b4a2a7198d43b16/014ce/assets/img/bm.svg" alt="bizagencyusa.com esta cargando..."></div> -->
-
 	<?php include 'includes/menu.php'; ?>
 	<div class="navbar-sentinel"></div>
 	<div class="wrapper">
@@ -77,24 +75,19 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-6 col-sm-6 col-lg-3">
+					<div class="col-md-4 col-sm-4 col-lg-4">
 						<div class="card mb-4 py-md-5 shadow-none" style="border: none;">
 							<div class="card-body text-center"><a href="web.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-coding pb-2"></i>Optimized Websites</a></div>
 						</div>
 					</div>
-					<div class="col-md-6 col-sm-6 col-lg-3">
+					<div class="col-md-4 col-sm-4 col-lg-4">
 						<div class="card mb-4 py-md-5 shadow-none" style="border: none;">
 							<div class="card-body text-center"><a href="digital.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-digital-marketing pb-2"></i>Digital advertising</a></div>
 						</div>
 					</div>
-					<div class="col-md-6 col-sm-6 col-lg-3">
+					<div class="col-md-4 col-sm-4 col-lg-4">
 						<div class="card mb-4 py-md-5 shadow-none" style="border: none;">
 							<div class="card-body text-center"><a href="hosting-domain.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-hosting pb-2"></i>Domain & Hosting</a></div>
-						</div>
-					</div>
-					<div class="col-md-6 col-sm-6 col-lg-3">
-						<div class="card mb-4 py-md-5 shadow-none" style="border: none;">
-							<div class="card-body text-center"><a href="index.php#" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-analytics pb-2"></i>Analytics & Reports</a></div>
 						</div>
 					</div>
 				</div>

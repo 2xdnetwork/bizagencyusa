@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="assets/img/icons/favicon.png">
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
 	<link rel="manifest" href="manifest.json">
 	<link rel="alternate" href="index.php" hreflang="en">
 	<link rel="alternate" href="es/index.php" hreflang="es-us">
