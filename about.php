@@ -88,24 +88,19 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-md-6 col-sm-6 col-lg-3">
+            <div class="col-md-4 col-sm-4 col-lg-3">
               <div class="card mb-4 py-md-5 shadow-none" style="border: none;">
                 <div class="card-body text-center"><a href="web.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-coding pb-2"></i>Websites</a></div>
               </div>
             </div>
-            <div class="col-md-6 col-sm-6 col-lg-3">
+            <div class="col-md-4 col-sm-4 col-lg-3">
               <div class="card mb-4 py-md-5 shadow-none" style="border: none;">
                 <div class="card-body text-center"><a href="digital.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-digital-marketing pb-2"></i>Digital Advertising</a></div>
               </div>
             </div>
-            <div class="col-md-6 col-sm-6 col-lg-3">
+            <div class="col-md-4 col-sm-4 col-lg-3">
               <div class="card mb-4 py-md-5 shadow-none" style="border: none;">
                 <div class="card-body text-center"><a href="hosting-domain.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-hosting pb-2"></i>Hosting & Domains</a></div>
-              </div>
-            </div>
-            <div class="col-md-6 col-sm-6 col-lg-3">
-              <div class="card mb-4 py-md-5 shadow-none" style="border: none;">
-                <div class="card-body text-center"><a href="reports.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-analytics pb-2"></i>Reports & Analytics</a></div>
               </div>
             </div>
           </div>
