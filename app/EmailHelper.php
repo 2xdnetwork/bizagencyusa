@@ -10,19 +10,10 @@ class EmailHelper
     public function __construct()
     {
         require_once __DIR__ . '/NotificationService.php';
+        require_once __DIR__ . '/DataHelper.php';
         $this->notificationService = new NotificationService();
         $dataHelper = new DataHelper();
         $GLOBALS['vars'] = $dataHelper->data;
-    }
-
-    public function subscribe()
-    {
-        $email = $_POST['email'];
-        if(filter_var($email, FILTER_VALIDATE_EMAIL)) {
-            $this->sendEmailUsingSmtp($GLOBALS['vars']['admin_email'],'new subscribe request', 'subscribe request from '.$email);
-            return json_encode(['status' => 'success']);
-        }
-        return json_encode(['status' => 'error', 'message' => 'Invalid email address']);
     }
 
     public function sendMail()
@@ -61,6 +52,9 @@ class EmailHelper
     protected function validate()
     {
         foreach ($this->postData as $key => $value) {
+            if ($key == 'submit') {
+                continue;
+            }
             if ($this->validateFieldByName($key)) {
                 $this->addError(ucfirst($key) . ' is required');
             }

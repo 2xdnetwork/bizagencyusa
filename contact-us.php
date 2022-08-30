@@ -44,6 +44,14 @@ $notifications = $emailHelper->getMessages();
 		justify-content: center;
 		align-items: center;
 	}
+    .alert.alert-success.alert-dismissible.fade.show {
+        color: green;
+        background-color: #c2ffc2;
+    }
+    .alert.alert-danger.alert-dismissible.fade.show {
+        color: red;
+        background-color: #f9e0e0;
+    }
 	</style>
 
 </head>
@@ -104,7 +112,6 @@ $notifications = $emailHelper->getMessages();
 				</div>
 			</div>
 		</div>
-		<script src="https://kwes.io/v2/kwes-script.js" defer="defer"></script>
 		<div class="contact-us-5 p-0 mt-7">
 			<div class="container">
 				<div class="row">
@@ -117,9 +124,7 @@ $notifications = $emailHelper->getMessages();
 						<div class="contact-us-5_form pt-0 pt-md-7">
                             <?php include 'includes/errorMessage.php'?>
                             <?php include 'includes/successMessage.php'?>
-							<form name="form" method="POST" id="form_contact" class="kwes-form" action="https://kwes.io/api/foreign/forms/zqdYs9LgVWyGvMQ0hoNn">
-								<input type="hidden" name="_next" id="form_next" value="">
-								<input type="text" name="_gotcha" style="display:none">
+							<form name="form" method="POST" id="form_contact1" class="kwes-form" action="">
 								<div class="form-control-item mb-3">
 									<label for="SingleLine">Name</label>
 									<input type="text" required class="form-control form-straight" name="name" value="" maxlength="255" rules="required|max:255">
