@@ -45,6 +45,8 @@ class EmailHelper
 
     protected function send()
     {
+        unset($this->postData['submit']);
+        $this->postData['site'] = $GLOBALS['vars']['domain'];
         $message = '<pre>' . print_r($this->postData, true) . '</pre>';
         $this->sendEmailUsingSmtp($GLOBALS['vars']['admin_email'],'new request from site', $message);
     }
