@@ -30,7 +30,7 @@ class EmailHelper
             return false;
         }
         $this->send();
-        $this->notificationService->setNotification('Thanks you, your request has been sent', 'success');
+        $this->notificationService->setNotification('Thank you, your request has been sent', 'success');
     }
 
     public function getMessages()
