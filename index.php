@@ -6,12 +6,12 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#f7941d">
-	<title>Business marketing. Attracting customers through advertising - Biz Agency USA</title>
+	<title>Business marketing. Attracting customers through advertising - BizAgencyUSA</title>
 	<meta name="description" content="Your business needs effective marketing strategies. The goal of our affordable marketing services is to make your company stand out from the competition, reach customers who want your products and / or services, and build long-term relationships with them.">
 	<meta name="robots" content="index,follow">
 	<meta name="author" content="bizagencyusa.com">
 	<link rel="canonical" href="index.php">
-	<meta property="og:title" content="Business marketing. Attracting customers through advertising - Biz Agency USA">
+	<meta property="og:title" content="Business marketing. Attracting customers through advertising - BizAgencyUSA">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.bizagencyusa.com/">
 	<meta property="og:description" content="Your business needs effective marketing strategies. The goal of our affordable marketing services is to make your company stand out from the competition, reach customers who want your products and / or services, and build long-term relationships with them.">
@@ -19,7 +19,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@bizagencyusa">
 	<meta name="twitter:url" content="https://www.bizagencyusa.com/">
-	<meta name="twitter:title" content="Business marketing. Attracting customers through advertising - Biz Agency USA">
+	<meta name="twitter:title" content="Business marketing. Attracting customers through advertising - BizAgencyUSA">
 	<meta name="twitter:description" content="Your business needs effective marketing strategies. The goal of our affordable marketing services is to make your company stand out from the competition, reach customers who want your products and / or services, and build long-term relationships with them.">
 	<meta name="twitter:image" content="/assets/img/Header-2x.jpg">
 	<?php include 'includes/css.php'; ?>
@@ -79,17 +79,17 @@
 				<div class="row">
 					<div class="col-md-6 col-sm-6 col-lg-3">
 						<div class="card mb-4 py-md-5 shadow-none" style="border: none;">
-							<div class="card-body text-center"><a href="services/web/index.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-coding pb-2"></i>Optimized Websites</a></div>
+							<div class="card-body text-center"><a href="web.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-coding pb-2"></i>Optimized Websites</a></div>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-lg-3">
 						<div class="card mb-4 py-md-5 shadow-none" style="border: none;">
-							<div class="card-body text-center"><a href="services/digital/index.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-digital-marketing pb-2"></i>Digital advertising</a></div>
+							<div class="card-body text-center"><a href="digital.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-digital-marketing pb-2"></i>Digital advertising</a></div>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-lg-3">
 						<div class="card mb-4 py-md-5 shadow-none" style="border: none;">
-							<div class="card-body text-center"><a href="services/hosting-domain/index.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-hosting pb-2"></i>Domain & Hosting</a></div>
+							<div class="card-body text-center"><a href="hosting-domain.php" class="card-link text-uppercase font-weight-bold text-dark"><i class="d-block icon text-muted fi flaticon-hosting pb-2"></i>Domain & Hosting</a></div>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-lg-3">
@@ -134,10 +134,10 @@
 								</ul>
 							</div>
 						</div>
-						<div class="items"><a href="contactus.php" title="Contact" class="btn btn-lg btn-primary btn-round font-weight-bolder mr-2 text-uppercase">Contact </a><a href="tel:(262) 822-3824" title="(262) 822-3824" class="btn btn-link btn-lg f-z-4 d-inline-flex font-weight-bold text-black-50"><i class="fi flaticon-telephone text-primary icon mr-2 f-z-6"></i>(262) 822-3824</a></div>
+						<div class="items"><a href="contact-us.php" title="Contact" class="btn btn-lg btn-primary btn-round font-weight-bolder mr-2 text-uppercase">Contact </a><a href="tel:(262) 822-3824" title="(262) 822-3824" class="btn btn-link btn-lg f-z-4 d-inline-flex font-weight-bold text-black-50"><i class="fi flaticon-telephone text-primary icon mr-2 f-z-6"></i>(262) 822-3824</a></div>
 					</div>
 					<div class="col-md-5">
-						<div class="left-down"><img data-img-src="https://d33wubrfki0l68.cloudfront.net/330099d1b6a758bd4897b05fe8598812648449bd/ddc83/assets/img/250087.jpg" data-img-src-2x="" data-img-src-2x="" alt="" class="shadows"></div>
+						<div class="left-down"><img data-img-src="/assets/img/250087.jpg" data-img-src-2x="" data-img-src-2x="" alt="" class="shadows"></div>
 					</div>
 				</div>
 			</div>
@@ -147,10 +147,10 @@
 				<div class="row">
 					<div class="col-md-10 offset-md-2">
 						<div class="left-image">
-							<div class="shift-top"><img data-img-src="https://d33wubrfki0l68.cloudfront.net/7b8b3ad06f0292589633032f14b86ef5074418b3/4716d/assets/img/608001.jpg" data-responsive="true" alt="" data-img-src-2x="https://d33wubrfki0l68.cloudfront.net/7b8b3ad06f0292589633032f14b86ef5074418b3/80324/assets/img/608001-2x.jpg" class="shadows img-fluid"></div>
+							<div class="shift-top"><img data-img-src="/assets/img/608001.jpg" data-responsive="true" alt="" data-img-src-2x="/assets/img/608001.jpg" class="shadows img-fluid"></div>
 						</div>
 						<div class="borders">
-							<h2>¿Why <span class="orange">Biz Agency USA?</span></h2>
+							<h2>¿Why <span class="orange">BizAgencyUSA?</span></h2>
 							<p class="font-weight-bold h5">The name of your business, the website, and some marketing actions are not enough to make a difference. It is important to design a strategy that takes into account the particulars of your business.</p>
 							<p>In addition to telling your story, we know how to use all the technical tools to reach new clients in the shortest possible time and at the lowest cost. By creating lasting relationships with your clients, we make you stand out from the competition.</p>
 						</div>

@@ -11,19 +11,19 @@ $notifications = $emailHelper->getMessages();
 	<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#f7941d">
-	<title>Boost your business's advertising with us - Biz Agency USA</title>
+	<title>Boost your business's advertising with us | BizAgencyUSA</title>
 	<meta name="description" content="We would be happy to help you grow big if you are ready. Spend less on marketing actions that don't work. Our advertising is efficient and safe.">
 	<meta name="robots" content="index,follow">
 	<meta name="author" content="bizagencyusa.com">
 	<link rel="canonical" href="index.php">
-	<meta property="og:title" content="Boost your business's advertising with us - Biz Agency USA">
+	<meta property="og:title" content="Boost your business's advertising with us - BizAgencyUSA">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.bizagencyusa.com/contact-us/">
 	<meta property="og:description" content="We would be happy to help you grow big if you are ready. Spend less on marketing actions that don't work. Our advertising is efficient and safe.">
 	<meta property="og:image" content="https://www.bizagencyusa.com/assets/img/Headerservices.jpg">
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:url" content="https://www.bizagencyusa.com/contact-us/">
-	<meta name="twitter:title" content="Boost your business's advertising with us - Biz Agency USA">
+	<meta name="twitter:title" content="Boost your business's advertising with us - BizAgencyUSA">
 	<meta name="twitter:description" content="We would be happy to help you grow big if you are ready. Spend less on marketing actions that don't work. Our advertising is efficient and safe.">
 	<meta name="twitter:image" content="https://www.bizagencyusa.com/assets/img/Headerservices.jpg">
 	<?php include 'includes/css.php'; ?>

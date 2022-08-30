@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-absolute sticky-top navbar-transparent bg-black" data-spy="affix" data-offset-top="60">
 		<div class="container">
 			<div class="navbar-translate">
-				<a class="navbar-brand" href="index.php"><img src="https://d33wubrfki0l68.cloudfront.net/55bcd3c9e559feeed800b6546b956cabcabd6d78/16572/assets/img/logo.png" alt="Logo"> </a>
+				<a class="navbar-brand" href="index.php"><img src="/assets/img/logo.png" alt="Logo"> </a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" aria-controls="collapsibleMenu" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-bar bar1"></span> <span class="navbar-toggler-bar bar2"></span> <span class="navbar-toggler-bar bar3"></span></button>
 			</div>
 			<div class="collapse navbar-collapse" id="collapsibleMenu">
