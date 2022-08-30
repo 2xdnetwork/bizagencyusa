@@ -41,8 +41,7 @@
 		align-items: center;
 	}
 	</style>
-	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-85358335-1"></script>
+</head>
 
 <body>
 	<?php include 'includes/menu.php'; ?>

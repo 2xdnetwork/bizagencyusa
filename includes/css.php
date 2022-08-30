@@ -13,3 +13,13 @@
 	<noscript>
 		<link rel="stylesheet" href="assets/css/styles-v=1622746418.css">
 	</noscript>
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-RVRWK96KEF"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-RVRWK96KEF');
+	</script>
