@@ -1,3 +1,9 @@
+<?php
+require_once __DIR__ . '/app/EmailHelper.php';
+$emailHelper = new EmailHelper();
+$emailHelper->sendMail();
+$notifications = $emailHelper->getMessages();
+?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -109,6 +115,8 @@
 					</div>
 					<div class="col-md-6 mt-6">
 						<div class="contact-us-5_form pt-0 pt-md-7">
+                            <?php include 'includes/errorMessage.php'?>
+                            <?php include 'includes/successMessage.php'?>
 							<form name="form" method="POST" id="form_contact" class="kwes-form" action="https://kwes.io/api/foreign/forms/zqdYs9LgVWyGvMQ0hoNn">
 								<input type="hidden" name="_next" id="form_next" value="">
 								<input type="text" name="_gotcha" style="display:none">
