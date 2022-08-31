@@ -9,6 +9,12 @@
     <link rel="stylesheet" type="text/css" href="/user/css/user-style.css">
     <link rel="stylesheet" type="text/css" href="/user/css/user-css.css">
     <?php include 'includes/css.php'; ?>
+    <style>
+        .alert.alert-success.alert-dismissible.fade.show {
+            color: green;
+            background-color: #c2ffc2;
+        }
+    </style>
 </head>
 <body>
     <div class="form-body">
@@ -33,10 +39,16 @@
             <div class="form-holder">
             <div class="form-content">
                     <div class="form-items">
+                        <?php if ($_POST):?>
+                            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                If you have a valid account you will receive an email with the password reset link.
+                                <button type="button" class="close" data-dismiss="alert" aria-label="Close"></button>
+                            </div>
+                        <?php endif;?>
                         <h3>Password Reset</h3>
                         <p>To reset your password, enter the email address you use to sign in to iofrm</p>
-                        <form>
-                            <input class="form-control" type="text" name="username" placeholder="E-mail Address" required="">
+                        <form method="post">
+                            <input class="form-control" type="email" name="username" placeholder="E-mail Address" required="">
                             <div class="form-button full-width">
                                 <button id="submit" type="submit" class="ibtn btn-forget">Send Reset Link</button>
                             </div>
