@@ -1,5 +1,8 @@
 <!doctype html>
-<?php  $GLOBALS['vars']['company_name'] = 'BizAgencyUSA';?> 
+<?php  
+$GLOBALS['vars']['company_name'] = 'BizAgencyUSA';
+$GLOBALS['vars']['domain'] = 'bizagencyusa.com';
+?> 
 <html lang="en">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -85,7 +88,7 @@
                <div class="tabs-content mt-5">
                   <div class="row">
                      <div class="col-lg-12 col-md-12 col-12">
-                        <h3>1. Services</h3>
+                        <h3>Services</h3>
                         <div class="informationmain-right-content">
                         <p>Client hereby engages <?= $GLOBALS['vars']['company_name']?> to perform the services (the “Services”) and/or provide the products (the “Products”) as described in the applicable SOW. <?= $GLOBALS['vars']['company_name']?> warrants that it will perform the Services in a professional manner consistent with generally accepted industry standards applicable to the performance of like services. However, except as otherwise expressly set forth in this Agreement, there are no formal deliverables or acceptance criteria defined and <?= $GLOBALS['vars']['company_name']?>’s Services are deemed accepted as they are performed. EXCEPT FOR THE EXPRESS WARRANTY SET FORTH ABOVE SERVICES ARE PROVIDED “AS IS” AND <?= $GLOBALS['vars']['company_name']?> EXPRESSLY DISCLAIMS ANY OTHER WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, DESIGN OR SUITABILITY, OR QUALITY OF SERVICE. NO WARRANTIES SHALL ARISE UNDER THIS AGREEMENT FROM COURSE OF DEALING OR USAGE OF TRADE.</p>
                      </div>
@@ -95,23 +98,14 @@
 
 
 
-               <div class="tabs-content mt-5">
-                  <div class="row">
-                     <div class="col-lg-12 col-md-12 col-12">
-                        <h3>2. Fees and Expenses</h3>
-                        <div class="informationmain-right-content">
-                        <p>As full and complete consideration for the Services and Products, Client agrees to pay <?= $GLOBALS['vars']['company_name']?> total fees inclusive of any and all taxes, as set forth in the applicable SOW(s) and in accordance with this Section 2 and the applicable Payment Terms contained in Schedule I, which is attached hereto and made a part hereof. All deposits or prepayments made hereunder are non-refundable unless otherwise set forth in the applicable SOW. In addition to the Fees, Client shall reimburse <?= $GLOBALS['vars']['company_name']?> for <?= $GLOBALS['vars']['company_name']?>’s reasonable, actual, and documented out-of-pocket expenses incurred in performing the Services in accordance with <?= $GLOBALS['vars']['company_name']?>’s Expense Reimbursement Policy contained in Schedule I.</p>
-                     </div>
-                     </div>
-                  </div>
-               </div>
+
 
 
 
                <div class="tabs-content mt-5">
                   <div class="row">
                      <div class="col-lg-12 col-md-12 col-12">
-                        <h3>3. Confidentiality</h3>
+                        <h3>Confidentiality</h3>
                         <div class="informationmain-right-content">
                         <p>Confidential Information. For the purposes of this Agreement, “Confidential Information” means and includes the terms of this Agreement and any specifications, customer lists, subscriber lists, vendor, partner or agent lists, business plans, market launch schedules, drawings, sketches, models, samples, data, computer programs, proprietary data, intellectual property, know-how, proprietary systems or related documentation, or nonpublic technical, customer, financial or business information which is furnished or disclosed by either party (the “Disclosing Party”) to the other party (the “Receiving Party”) or to which the Receiving Party has access in the course of the conducting of the business and transactions contemplated by this Agreement. Notwithstanding the foregoing, the term Confidential Information shall not include information that (i) is publicly known at the time of its disclosure, (ii) is lawfully received by the Receiving Party from a third party not under an obligation of confidentiality to the Disclosing Party, (iii) is published or otherwise made known to the public or to a third party without imposing an obligation of confidentiality by the Disclosing Party, or (iv) was generated independently by the Receiving Party without use or reference to the Confidential Information of the Disclosing Party.</p>
 
@@ -129,6 +123,18 @@
                   </div>
                </div>
 
+
+               <div class="tabs-content mt-5">
+                  <div class="row">
+                     <div class="col-lg-12 col-md-12 col-12">
+                        <h3>Fees and Expenses</h3>
+                        <div class="informationmain-right-content">
+                        <p>As full and complete consideration for the Services and Products, Client agrees to pay <?= $GLOBALS['vars']['company_name']?> total fees inclusive of any and all taxes, as set forth in the applicable SOW(s) and in accordance with this Section 2 and the applicable Payment Terms contained in Schedule I, which is attached hereto and made a part hereof. All deposits or prepayments made hereunder are non-refundable unless otherwise set forth in the applicable SOW. In addition to the Fees, Client shall reimburse <?= $GLOBALS['vars']['company_name']?> for <?= $GLOBALS['vars']['company_name']?>’s reasonable, actual, and documented out-of-pocket expenses incurred in performing the Services in accordance with <?= $GLOBALS['vars']['company_name']?>’s Expense Reimbursement Policy contained in Schedule I.</p>
+                     </div>
+                     </div>
+                  </div>
+               </div>
+               
 
                <div class="tabs-content mt-5">
                   <div class="row">

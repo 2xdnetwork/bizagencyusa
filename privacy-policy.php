@@ -1,5 +1,9 @@
 <!doctype html>
-<?php  $GLOBALS['vars']['company_name'] = 'BizAgencyUSA';?> 
+<?php  
+$GLOBALS['vars']['company_name'] = 'BizAgencyUSA';
+$GLOBALS['vars']['domain'] = 'bizagencyusa.com';
+?> 
+
 <html lang="en">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
