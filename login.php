@@ -9,6 +9,12 @@
     <link rel="stylesheet" type="text/css" href="/user/css/user-style.css">
     <link rel="stylesheet" type="text/css" href="/user/css/user-css.css">
     <?php include 'includes/css.php'; ?>
+    <style>
+        .alert.alert-danger.alert-dismissible.fade.show {
+            color: red;
+            background-color: #f9e0e0;
+        }
+    </style>
 </head>
 <body>
     <div class="form-body">
@@ -34,7 +40,13 @@
                 <div class="form-content">
                     <div class="form-items">
                     <h3>Login</h3>
-                        <form>
+                        <form method="post">
+                            <?php if ($_POST): ?>
+                                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                    Wrong email address or password
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"></button>
+                                </div>
+                            <?php endif?>
                             <input class="form-control" type="text" name="username" placeholder="E-mail Address" required>
                             <input class="form-control" type="password" name="password" placeholder="Password" required>
                             <div class="form-button">
