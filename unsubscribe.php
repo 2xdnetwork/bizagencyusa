@@ -89,8 +89,6 @@ $notifications = $emailHelper->getMessages();
 					</div>
 					<div class="col-md-6 mt-6">
 						<div class="contact-us-5_form pt-0 pt-md-7">
-                            <?php include 'includes/errorMessage.php'?>
-                            <?php include 'includes/successMessage.php'?>
 
                             <?php if ($_POST):?>
                                 <div class="alert alert-success alert-dismissible fade show" role="alert">
