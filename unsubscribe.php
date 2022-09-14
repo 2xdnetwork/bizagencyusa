@@ -91,6 +91,14 @@ $notifications = $emailHelper->getMessages();
 						<div class="contact-us-5_form pt-0 pt-md-7">
                             <?php include 'includes/errorMessage.php'?>
                             <?php include 'includes/successMessage.php'?>
+
+                            <?php if ($_POST):?>
+                                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                    You has been success unsubscribe
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"></button>
+                                </div>
+                            <?php endif;?>
+
 							<form name="form" method="POST" id="form_contact1" class="kwes-form" action="">
 
 								<div class="form-control-item mb-3">
