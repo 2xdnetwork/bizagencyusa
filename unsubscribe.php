@@ -92,7 +92,7 @@ $notifications = $emailHelper->getMessages();
 
                             <?php if ($_POST):?>
                                 <div class="alert alert-success alert-dismissible fade show" role="alert">
-                                    You has been success unsubscribe
+                                    You have been successfully unsubscribed
                                     <button type="button" class="close" data-dismiss="alert" aria-label="Close"></button>
                                 </div>
                             <?php endif;?>
