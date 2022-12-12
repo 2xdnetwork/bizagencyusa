@@ -18167,7 +18167,7 @@ var App = {
   breakpoint: 992,
   code: "sGZQnLlz4lbLbo4a@eJLQZ.wnJ",
   key: "sa03IVqlbiRh5kCG4Xop91OMPJgLvYEcHZtQjzByUDxrn2KNTSWue8d7Awf6Fm",
-  contact_redirect: "https://www.usabizagency.com/success/",
+  contact_redirect: "https://www.bizagency-usa.com/success/",
   init: function init() {
     // Initialize modular scripts
     this.scrollLink(); // Ajax submit removed

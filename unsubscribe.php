@@ -11,21 +11,21 @@ $notifications = $emailHelper->getMessages();
 	<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#f7941d">
-	<title>Unsubscribe | USABizAgency</title>
+	<title>Unsubscribe | BizAgency-USA</title>
 	<meta name="description" content="We would be happy to help you grow big if you are ready. Spend less on marketing actions that don't work. Our advertising is efficient and safe.">
 	<meta name="robots" content="index,follow">
-	<meta name="author" content="usabizagency.com">
+	<meta name="author" content="bizagency-usa.com">
 	<link rel="canonical" href="index.php">
-	<meta property="og:title" content="Unsubscribe - USABizAgency">
+	<meta property="og:title" content="Unsubscribe - BizAgency-USA">
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.usabizagency.com/contact-us/">
+	<meta property="og:url" content="https://www.bizagency-usa.com/contact-us/">
 	<meta property="og:description" content="We would be happy to help you grow big if you are ready. Spend less on marketing actions that don't work. Our advertising is efficient and safe.">
-	<meta property="og:image" content="https://www.usabizagency.com/assets/img/Headerservices.jpg">
+	<meta property="og:image" content="https://www.bizagency-usa.com/assets/img/Headerservices.jpg">
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:url" content="https://www.usabizagency.com/contact-us/">
-	<meta name="twitter:title" content="Unsubscribe - USABizAgency">
+	<meta name="twitter:url" content="https://www.bizagency-usa.com/contact-us/">
+	<meta name="twitter:title" content="Unsubscribe - BizAgency-USA">
 	<meta name="twitter:description" content="We would be happy to help you grow big if you are ready. Spend less on marketing actions that don't work. Our advertising is efficient and safe.">
-	<meta name="twitter:image" content="https://www.usabizagency.com/assets/img/Headerservices.jpg">
+	<meta name="twitter:image" content="https://www.bizagency-usa.com/assets/img/Headerservices.jpg">
 	<?php include 'includes/css.php'; ?>
 	<style>
 	.page-header {
@@ -57,7 +57,7 @@ $notifications = $emailHelper->getMessages();
 </head>
 
 <body>
-	<div class="bm-loader"><img src="/assets/img/bm2.svg" alt="usabizagency.com esta cargando..."></div>
+	<div class="bm-loader"><img src="/assets/img/bm2.svg" alt="bizagency-usa.com esta cargando..."></div>
 	<?php include 'includes/menu.php'; ?>
 	<div class="navbar-sentinel"></div>
 	<div class="wrapper">
@@ -121,7 +121,7 @@ $notifications = $emailHelper->getMessages();
 					</div>
 					<div class="col-auto ml-md-0 mx-md-auto">
 						<div class="icon d-inline-block"><i class="fi flaticon-mail text-primary icon"></i></div>
-						<div class="icon-text d-inline-block pl-3"> <span class="d-block h3 font-weight-bold text-white">contact@usabizagency.com</span></div>
+						<div class="icon-text d-inline-block pl-3"> <span class="d-block h3 font-weight-bold text-white">contact@bizagency-usa.com</span></div>
 					</div>
 				
 				</div>

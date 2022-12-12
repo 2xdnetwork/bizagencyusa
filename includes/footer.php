@@ -1,7 +1,7 @@
 <footer class="footer footer-8 mt-5">
 			<div class="container">
 				<div class="row pb-7">
-					<div class="col-md-12 footer-logo"><span class="d-block mb-4 text-left"><h2 class="font-weight-bold h3 text-lowercase">usabizagency<span class="text-primary">.com</span></h2>
+					<div class="col-md-12 footer-logo"><span class="d-block mb-4 text-left"><h2 class="font-weight-bold h3 text-lowercase">BizAgency-USA<span class="text-primary">.com</span></h2>
 						</span>
 					</div>
 					<div class="col-md-6">
@@ -34,7 +34,7 @@
 			<div class="container">
 				<div class="row py-3">
 					<div class="col">
-						<div class="text-left">usabizagency.com. All rights reserved <?php echo date('Y'); ?></div>
+						<div class="text-left">bizagency-usa.com. All rights reserved <?php echo date('Y'); ?></div>
 					</div>
 					<div class="col-auto"><a href="index.php#section1" data-js="scroll" class="font-weight-bold" aria-label="Go to Top" title="Go to top of content"><i class="fi flaticon-chevron-arrow-down flip"></i> <span class="sr-only">Go to top of page</span></a></div>
 				</div>

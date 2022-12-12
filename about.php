@@ -5,20 +5,20 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="theme-color" content="#f7941d">
-    <title>We advertise your business to attract customers - USABizAgency</title>
+    <title>We advertise your business to attract customers - BizAgency-USA</title>
     <meta name="description" content="The goal of our marketing strategy is to help your business grow. Your brand will be strengthened and exposed to the world with our help. The right use of digital or printed media can take your business to the next level.">
     <meta name="robots" content="index,follow">
-    <meta name="author" content="usabizagency.com">
+    <meta name="author" content="bizagency-usa.com">
     <link rel="canonical" href="index.php">
-    <meta property="og:title" content="We advertise your business to attract customers - USABizAgency ">
+    <meta property="og:title" content="We advertise your business to attract customers - BizAgency-USA ">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.usabizagency.com/about/">
+    <meta property="og:url" content="https://www.bizagency-usa.com/about/">
     <meta property="og:description" content="The goal of our marketing strategy is to help your business grow. Your brand will be strengthened and exposed to the world with our help. The right use of digital or printed media can take your business to the next level.">
-    <meta property="og:image" content="https://www.usabizagency.com/assets/img/Headerservices.jpg">
+    <meta property="og:image" content="https://www.bizagency-usa.com/assets/img/Headerservices.jpg">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="">
-    <meta name="twitter:url" content="https://www.usabizagency.com/about/">
-    <meta name="twitter:title" content="We advertise your business to attract customers - USABizAgency ">
+    <meta name="twitter:url" content="https://www.bizagency-usa.com/about/">
+    <meta name="twitter:title" content="We advertise your business to attract customers - BizAgency-USA ">
     <meta name="twitter:description" content="The goal of our marketing strategy is to help your business grow. Your brand will be strengthened and exposed to the world with our help. The right use of digital or printed media can take your business to the next level.">
  
     <?php include 'includes/css.php'; ?>
@@ -116,7 +116,7 @@
               </div>
             </div>
             <div class="col-md-7 mt-4 mt-md-6">
-              <p class="font-weight-bold h5">usabizagency.com values truth, collaboration, and transparency.</p>
+              <p class="font-weight-bold h5">bizagency-usa.com values truth, collaboration, and transparency.</p>
               <p>Solving real problems with simplified solutions is what we do. With us, you won't receive a variety of services; you'll receive a precise strategy for success. By studying your business, identifying problems, and providing solutions, we are able to accomplish this.</p>
               <p>We implement each piece of our marketing system and achieve extraordinary results with the help of a support system, both technological and human, up to the highest world standards.</p>
               <p>In order to achieve your business's goals, we develop marketing strategies that work. Advertising alone is not enough. To be successful in business, you need to have a well-designed strategy that is specifically tailored to your business. Due to the unique nature of your business and your desire to excel. You can always count on our team to find the most effective way to attract potential customers to your business.</p>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-auto ml-md-0 mx-md-auto">
               <div class="icon d-inline-block"><i class="fi flaticon-mail text-primary icon"></i></div>
-              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@usabizagency.com</span></div>
+              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@bizagency-usa.com</span></div>
             </div>          
           </div>
         </div>

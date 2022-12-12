@@ -8,19 +8,19 @@
     <title>Hosting, domain registration, and corporate email services</title>
     <meta name="description" content="You must choose the right domain name, choose the right hosting, and have a professional email with your domain. Visitors to your site and their experience greatly depend on these factors">
     <meta name="robots" content="index,follow">
-    <meta name="author" content="usabizagency.com">
+    <meta name="author" content="bizagency-usa.com">
     <link rel="canonical" href="hosting-domain.php">
     <meta property="og:title" content="Hosting, domain registration, and corporate email services">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.usabizagency.com/hosting-domain/">
+    <meta property="og:url" content="https://www.bizagency-usa.com/hosting-domain/">
     <meta property="og:description" content="You must choose the right domain name, choose the right hosting, and have a professional email with your domain. Visitors to your site and their experience greatly depend on these factors">
-    <meta property="og:image" content="https://www.usabizagency.com/assets/img/Headerservices.jpg">
+    <meta property="og:image" content="https://www.bizagency-usa.com/assets/img/Headerservices.jpg">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="">
-    <meta name="twitter:url" content="https://www.usabizagency.com/hosting-domain/">
+    <meta name="twitter:url" content="https://www.bizagency-usa.com/hosting-domain/">
     <meta name="twitter:title" content="Hosting, domain registration, and corporate email services">
     <meta name="twitter:description" content="You must choose the right domain name, choose the right hosting, and have a professional email with your domain. Visitors to your site and their experience greatly depend on these factors">
-    <meta name="twitter:image" content="https://www.usabizagency.com/assets/img/Headerservices.jpg">
+    <meta name="twitter:image" content="https://www.bizagency-usa.com/assets/img/Headerservices.jpg">
     <?php include 'includes/css.php'; ?>
     <style>
       .page-header {
@@ -42,7 +42,7 @@
     </style>
   </head>
   <body>
-    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="usabizagency.com esta cargando..."></div>
+    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="bizagency-usa.com esta cargando..."></div>
     <?php include 'includes/menu.php'; ?>
     <div class="navbar-sentinel"></div>
     <div class="wrapper">
@@ -73,8 +73,8 @@
                 <h2>What is Domain and hosting <span class="orange">services?</span></h2>
               </div>
               <p class="font-weight-bold h5">Creating your online presence is the first step. Your website's online presence relies on a domain name and hosting service.</p>
-              <p>Domains are the names of companies on the Internet. Our browser uses this address to access your website. Examples include usabizagency.com and google.com. Names are unique, so you might not be able to find the one you had in mind at the beginning.</p>
-              <p>It can be difficult to choose the right domain name for your business. We can help you select the ideal name at usabizagency.com. In addition, you should ensure that it is not too long, easy to type, easy to remember, and that it does not contain the letter "ñ", accents, hyphens, numbers or capital letters.</p>
+              <p>Domains are the names of companies on the Internet. Our browser uses this address to access your website. Examples include bizagency-usa.com and google.com. Names are unique, so you might not be able to find the one you had in mind at the beginning.</p>
+              <p>It can be difficult to choose the right domain name for your business. We can help you select the ideal name at bizagency-usa.com. In addition, you should ensure that it is not too long, easy to type, easy to remember, and that it does not contain the letter "ñ", accents, hyphens, numbers or capital letters.</p>
               <p>Your website (or other content accessible via the web, such as email accounts, databases, etc.) is hosted on a server on the Internet. Hosting plays a crucial role in the speed with which the website loads, as well as the user experience. Users and profits can be lost if a server is interrupted.</p>
               <p>Choosing our Hosting means you get more than just a team of experts who manage your maintenance, support, and technical service. Your website will also be hosted on a stable, secure server with quick access.</p>
             </div>
@@ -111,7 +111,7 @@
             </div>
             <div class="col-auto ml-md-0 mx-md-auto">
               <div class="icon d-inline-block"><i class="fi flaticon-mail text-primary icon"></i></div>
-              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@usabizagency.com</span></div>
+              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@bizagency-usa.com</span></div>
             </div>
           </div>
         </div>
