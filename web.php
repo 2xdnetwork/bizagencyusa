@@ -8,16 +8,16 @@
     <title>Our goal is to provide your customers with a better experience on your website"</title>
     <meta name="description" content="It is crucial for excellent ranking and customer experience on the Internet to have a website optimized for search engines. A quality website must be accessible, usable, and visible.">
     <meta name="robots" content="index,follow">
-    <meta name="author" content="bizagencyusa.com">
+    <meta name="author" content="usabizagency.com">
     <link rel="canonical" href="index.php">
     <meta property="og:title" content="Our goal is to provide your customers with a better experience on your website">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.bizagencyusa.com/web/">
+    <meta property="og:url" content="https://www.usabizagency.com/web/">
     <meta property="og:description" content="It is crucial for excellent ranking and customer experience on the Internet to have a website optimized for search engines. A quality website must be accessible, usable, and visible.">
-    <meta property="og:image" content="https://www.bizagencyusa.com/assets/img/Headerservices.jpg">
+    <meta property="og:image" content="https://www.usabizagency.com/assets/img/Headerservices.jpg">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="">
-    <meta name="twitter:url" content="https://www.bizagencyusa.com/web/">
+    <meta name="twitter:url" content="https://www.usabizagency.com/web/">
     <meta name="twitter:title" content="Our goal is to provide your customers with a better experience on your website">
     <meta name="twitter:description" content="It is crucial for excellent ranking and customer experience on the Internet to have a website optimized for search engines. A quality website must be accessible, usable, and visible.">
  
@@ -43,7 +43,7 @@
 
   </head>
   <body>
-    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="bizagencyusa.com"></div>
+    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="usabizagency.com"></div>
     <?php include 'includes/menu.php'; ?>
     <div class="navbar-sentinel"></div>
     <div class="wrapper">
@@ -75,7 +75,7 @@
               </div>
               <p class="font-weight-bold h5">You are your business's face on the Internet. You want to make a good first impression.</p>
               <p>There is no doubt that your website is your Internet office, the first impression your company makes on the Internet. The users decide whether to stay or leave within a few seconds. Having an attractive graphic design is not enough; it's much more than that. For excellent ranking and customer experience, it is important to have a website optimized for search engines. Our attention is focused on the different aspects of each business's website.</p>
-              <p>Bizagencyusa.com focuses on the users when developing a website. Providing its clients with a virtual office is our first challenge. Developing a quality website involves ensuring accessibility, usability, and visibility.</p>
+              <p>usabizagency.com focuses on the users when developing a website. Providing its clients with a virtual office is our first challenge. Developing a quality website involves ensuring accessibility, usability, and visibility.</p>
               <p>As well as being attractive and modern, our websites meet the quality standards of the most popular search engines.</p>
             </div>
           </div>
@@ -145,7 +145,7 @@
             </div>
             <div class="col-auto ml-md-0 mx-md-auto">
               <div class="icon d-inline-block"><i class="fi flaticon-mail text-primary icon"></i></div>
-              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@bizagencyusa.com</span></div>
+              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@usabizagency.com</span></div>
             </div>
           </div>
         </div>

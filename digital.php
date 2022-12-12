@@ -8,15 +8,15 @@
     <title>Advertising on the web and in print. Miami advertising services.</title>
     <meta name="description" content="Your choice of advertising medium must go beyond its price, its own taste, or the tradition of always doing the same thing. Therefore, you need marketing specialists' criteria.">
     <meta name="robots" content="index,follow">
-    <meta name="author" content="bizagencyusa.com">
+    <meta name="author" content="usabizagency.com">
     <link rel="canonical" href="index.php">
     <meta property="og:title" content="Advertising on the web and in print. Miami advertising services.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.bizagencyusa.com/digital/">
+    <meta property="og:url" content="https://www.usabizagency.com/digital/">
     <meta property="og:description" content="Your choice of advertising medium must go beyond its price, its own taste, or the tradition of always doing the same thing. Therefore, you need marketing specialists' criteria.">
-    <meta property="og:image" content="https://www.bizagencyusa.com/assets/img/Headerservices.jpg">
+    <meta property="og:image" content="https://www.usabizagency.com/assets/img/Headerservices.jpg">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="https://www.bizagencyusa.com/digital/">
+    <meta name="twitter:url" content="https://www.usabizagency.com/digital/">
     <meta name="twitter:title" content="Advertising on the web and in print. Miami advertising services.">
     <meta name="twitter:description" content="Your choice of advertising medium must go beyond its price, its own taste, or the tradition of always doing the same thing. Therefore, you need marketing specialists' criteria.">
     <?php include 'includes/css.php'; ?>
@@ -41,7 +41,7 @@
     </style>
   </head>
   <body>
-    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="bizagencyusa.com"></div>
+    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="usabizagency.com"></div>
     <?php include 'includes/menu.php'; ?>
     <div class="navbar-sentinel"></div>
     <div class="wrapper">
@@ -71,10 +71,10 @@
               <div class="title-header">
                 <h2>Digital or Printed <span class="orange">Marketing?</span></h2>
               </div>
-              <p class="font-weight-bold h5">We at bizagencyusa.com believe there should be no inefficient marketing, whether digital or printed. No matter what means are used to achieve the objectives, the success of an advertising campaign depends on the strategies employed.</p>
+              <p class="font-weight-bold h5">We at usabizagency.com believe there should be no inefficient marketing, whether digital or printed. No matter what means are used to achieve the objectives, the success of an advertising campaign depends on the strategies employed.</p>
               <p>It is crucial to determine at what stage your business is located before defining your objectives, messages, and the best methods to communicate them.</p>
               <p>The medium in which you show your messages must be a strategic decision that goes beyond its price, your own taste, or tradition. For this reason, you should have a marketing specialist criterion.</p>
-              <p>By combining digital channels with printed ones, bizagencyusa.com offers a marketing strategy that can reach a variety of audiences and expand your visibility.</p>
+              <p>By combining digital channels with printed ones, usabizagency.com offers a marketing strategy that can reach a variety of audiences and expand your visibility.</p>
             </div>
           </div>
         </div>
@@ -91,7 +91,7 @@
             <div class="col-md-7 mt-4 mt-md-6">
               <p class="font-weight-bold h5">Increasingly, people are using mobile devices to access the Internet. Our world today is dominated by the Internet, which helps us find the products and services we are looking for</p>
               <p>As we research what options are available for a certain product, which brand offers the best deal, we want to see images of the product that will convince us even more that we want it. Therefore, businesses must have an online presence.</p>
-              <p>We at bizagencyusa.com consider a variety of Internet platforms when designing our advertising strategies: search engines, web pages, digital media, social networks, and video channels. Advertising campaigns are successful largely because they identify the most effective and profitable channels based on the company's goals.</p>
+              <p>We at usabizagency.com consider a variety of Internet platforms when designing our advertising strategies: search engines, web pages, digital media, social networks, and video channels. Advertising campaigns are successful largely because they identify the most effective and profitable channels based on the company's goals.</p>
             </div>
           </div>
         </div>
@@ -108,7 +108,7 @@
               </div>
               <p class="font-weight-bold h5">Print advertising has survived despite the digital age.</p>
               <p>By promoting business through printed media, the audience is able to gain a more tangible understanding of the products or services. Due to its palpable nature, this type of advertising conveys a sense of security. It offers more confidence to consumers since it is printed and cannot be erased as easily as an electronic document. Due to the length of time the customer spends reading the printed formats, they ensure the customer's attention. As opposed to digital advertising where a user can change websites instantly or consult multiple websites simultaneously.</p>
-              <p>bizagencyusa.com recommends that clients do not discard printed media. To provide the best results, we analyze how to use them. The more communication channels you use, the more effective your campaign will be and the more people you will reach.</p>
+              <p>usabizagency.com recommends that clients do not discard printed media. To provide the best results, we analyze how to use them. The more communication channels you use, the more effective your campaign will be and the more people you will reach.</p>
               <p>Your brand will be distinguished by our graphic designers, photographers, and marketing experts.</p>
             </div>
           </div>
@@ -123,7 +123,7 @@
             </div>
             <div class="col-auto ml-md-0 mx-md-auto">
               <div class="icon d-inline-block"><i class="fi flaticon-mail text-primary icon"></i></div>
-              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@bizagencyusa.com</span></div>
+              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@usabizagency.com</span></div>
             </div>
           </div>
         </div>

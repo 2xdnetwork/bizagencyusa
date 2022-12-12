@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Page | Bizagencyusa.com</title>
+    <title>Login Page | usabizagency.com</title>
     <link rel="stylesheet" type="text/css" href="/user/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/user/css/fontawesome-all.min.css">
     <link rel="stylesheet" type="text/css" href="/user/css/user-style.css">
@@ -31,7 +31,7 @@
                 <div class="info-holder">
                     <h3>Digital Solutions For Your Business</h3>
                     <p>Sign in to your account<br><br>
-                    At bizagencyusa.com we provide web design and development services for small businesses. Our websites provide clients with the information they are looking for, a first impression of a professional design so important to your business, provided services, galleries of work or products, contact forms, among others.
+                    At usabizagency.com we provide web design and development services for small businesses. Our websites provide clients with the information they are looking for, a first impression of a professional design so important to your business, provided services, galleries of work or products, contact forms, among others.
 
 .</p>
                 </div>

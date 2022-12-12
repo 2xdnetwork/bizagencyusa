@@ -6,20 +6,20 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#f7941d">
-	<title>Business marketing. Attracting customers through advertising - BizAgencyUSA</title>
+	<title>Business marketing. Attracting customers through advertising - USABizAgency</title>
 	<meta name="description" content="Your business needs effective marketing strategies. The goal of our affordable marketing services is to make your company stand out from the competition, reach customers who want your products and / or services, and build long-term relationships with them.">
 	<meta name="robots" content="index,follow">
-	<meta name="author" content="bizagencyusa.com">
+	<meta name="author" content="usabizagency.com">
 	<link rel="canonical" href="index.php">
-	<meta property="og:title" content="Business marketing. Attracting customers through advertising - BizAgencyUSA">
+	<meta property="og:title" content="Business marketing. Attracting customers through advertising - USABizAgency">
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.bizagencyusa.com/">
+	<meta property="og:url" content="https://www.usabizagency.com/">
 	<meta property="og:description" content="Your business needs effective marketing strategies. The goal of our affordable marketing services is to make your company stand out from the competition, reach customers who want your products and / or services, and build long-term relationships with them.">
 	<meta property="og:image" content="/assets/img/Header-2x.jpg">
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="@bizagencyusa">
-	<meta name="twitter:url" content="https://www.bizagencyusa.com/">
-	<meta name="twitter:title" content="Business marketing. Attracting customers through advertising - BizAgencyUSA">
+	<meta name="twitter:site" content="@usabizagency">
+	<meta name="twitter:url" content="https://www.usabizagency.com/">
+	<meta name="twitter:title" content="Business marketing. Attracting customers through advertising - USABizAgency">
 	<meta name="twitter:description" content="Your business needs effective marketing strategies. The goal of our affordable marketing services is to make your company stand out from the competition, reach customers who want your products and / or services, and build long-term relationships with them.">
 	<meta name="twitter:image" content="/assets/img/Header-2x.jpg">
 	<?php include 'includes/css.php'; ?>
@@ -101,7 +101,7 @@
 							<p class="font-weight-bold h5">A professional website should be attractive, but the most important thing is that it works. Many marketing companies provide SEO and website design services, but many of them lack the technical knowledge necessary for their digital business to provide them with clients.</p>
 							<p>With the development of multiple platforms for web development and the globalization of basic knowledge regarding SEO, many marketing businesses launch themselves to provide services with the promise of satisfactory results in a few months. Most of them use predesigned templates and focus on just writing blogs to hopefully achieve a mediocre position in search results and neglect basic technical aspects such as user experience (UX), landing pages and web page loading speed, hosting quality, among others. Don't trust those businesses that are just trying to waste your money and time.</p>
 							<p>Our solution is not to wait months for you to start acquiring customers over the internet. From the first month users will begin to contact you online and over time you will have a desired flow of customers. Results are guaranteed. If in the first month we are not able to bring clients to your business, we guarantee you 100% of your money back.</p>
-							<p>At bizagencyusa.com we provide web design and development services for small businesses. Our websites provide clients with the information they are looking for, a first impression of a professional design so important to your business, provided services, galleries of work or products, contact forms, among others.</p>
+							<p>At usabizagency.com we provide web design and development services for small businesses. Our websites provide clients with the information they are looking for, a first impression of a professional design so important to your business, provided services, galleries of work or products, contact forms, among others.</p>
 							<p>Our websites are secured and managed by highly experienced professional staff. This way you can focus on your business and leave the technical aspects to the experts.</p>
 						</div>
 						<div class="items">
@@ -142,7 +142,7 @@
 							<div class="shift-top"><img data-img-src="/assets/img/608001.jpg" data-responsive="true" alt="" data-img-src-2x="/assets/img/608001.jpg" class="shadows img-fluid"></div>
 						</div>
 						<div class="borders">
-							<h2>¿Why <span class="orange">BizAgencyUSA?</span></h2>
+							<h2>¿Why <span class="orange">USABizAgency?</span></h2>
 							<p class="font-weight-bold h5">The name of your business, the website, and some marketing actions are not enough to make a difference. It is important to design a strategy that takes into account the particulars of your business.</p>
 							<p>In addition to telling your story, we know how to use all the technical tools to reach new clients in the shortest possible time and at the lowest cost. By creating lasting relationships with your clients, we make you stand out from the competition.</p>
 						</div>
@@ -238,7 +238,7 @@
 					</div>
 					<div class="col-auto ml-md-0 mx-md-auto">
 						<div class="icon d-inline-block"><i class="fi flaticon-mail text-primary icon"></i></div>
-						<div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span> <span class="d-block h3 font-weight-bold text-white">contact@bizagencyusa.com</span></div>
+						<div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span> <span class="d-block h3 font-weight-bold text-white">contact@usabizagency.com</span></div>
 					</div>
 				</div>
 			</div>

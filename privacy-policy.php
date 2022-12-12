@@ -1,7 +1,7 @@
 <!doctype html>
 <?php  
-$GLOBALS['vars']['company_name'] = 'BizAgencyUSA';
-$GLOBALS['vars']['domain'] = 'bizagencyusa.com';
+$GLOBALS['vars']['company_name'] = 'USABizAgency';
+$GLOBALS['vars']['domain'] = 'usabizagency.com';
 ?> 
 
 <html lang="en">
@@ -13,14 +13,14 @@ $GLOBALS['vars']['domain'] = 'bizagencyusa.com';
     <title>Privacy Policy</title>
     <meta name="description" content="Privacy Policy - By using the Site, you agree to the collection and use of information in accordance with this policy.">
     <meta name="robots" content="index,follow">
-    <meta name="author" content="bizagencyusa.com">
+    <meta name="author" content="usabizagency.com">
     <link rel="canonical" href="privacy-policy.php">
     <meta property="og:title" content="Privacy-Policy">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.bizagencyusa.com/privacy-policy.php">
+    <meta property="og:url" content="https://www.usabizagency.com/privacy-policy.php">
     <meta property="og:description" content="Privacy Policy - By using the Site, you agree to the collection and use of information in accordance with this policy.">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="https://www.bizagencyusa.com/privacy-policy.php">
+    <meta name="twitter:url" content="https://www.usabizagency.com/privacy-policy.php">
     <meta name="twitter:title" content="Privacy-Policy">
     <meta name="twitter:description" content="Privacy Policy - By using the Site, you agree to the collection and use of information in accordance with this policy.">
     <?php include 'includes/css.php'; ?>
@@ -44,7 +44,7 @@ $GLOBALS['vars']['domain'] = 'bizagencyusa.com';
     </style>
   </head>
   <body>
-    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="bizagencyusa.com esta cargando..."></div>
+    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="usabizagency.com esta cargando..."></div>
     <?php include 'includes/menu.php'; ?>
     <div class="navbar-sentinel"></div>
     <div class="wrapper">
@@ -264,7 +264,7 @@ $GLOBALS['vars']['domain'] = 'bizagencyusa.com';
                                  <div class="informationmain-right-content">
                                  <p>Use of the <?= $GLOBALS['vars']['company_name']?> text message-based services (the “Service”) is subject to the following Terms of Service. These terms constitute a legal agreement (the “Agreement”). Please read them carefully.<br><br>
 
-                                     <?= $GLOBALS['vars']['company_name']?> will allow several different opportunities, such as a entering a phone number online, to opt-in to SMS services.  The opt-in received will be 'TEXT JOIN to sign up to receive Notifications from BizAgencyUSA.'<br><br>
+                                     <?= $GLOBALS['vars']['company_name']?> will allow several different opportunities, such as a entering a phone number online, to opt-in to SMS services.  The opt-in received will be 'TEXT JOIN to sign up to receive Notifications from USABizAgency.'<br><br>
 
                                  You can cancel the Service at any time. Just text "STOP". After you send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, just sign up as you did the first time, and we will start sending SMS messages to you again.<br><br>
 
@@ -304,7 +304,7 @@ $GLOBALS['vars']['domain'] = 'bizagencyusa.com';
             </div>
             <div class="col-auto ml-md-0 mx-md-auto">
               <div class="icon d-inline-block"><i class="fi flaticon-mail text-primary icon"></i></div>
-              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@bizagencyusa.com</span></div>
+              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@usabizagency.com</span></div>
             </div>
           </div>
         </div>

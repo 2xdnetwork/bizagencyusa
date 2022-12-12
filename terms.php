@@ -1,7 +1,7 @@
 <!doctype html>
 <?php  
-$GLOBALS['vars']['company_name'] = 'BizAgencyUSA';
-$GLOBALS['vars']['domain'] = 'bizagencyusa.com';
+$GLOBALS['vars']['company_name'] = 'USABizAgency';
+$GLOBALS['vars']['domain'] = 'usabizagency.com';
 ?> 
 <html lang="en">
   <head>
@@ -12,14 +12,14 @@ $GLOBALS['vars']['domain'] = 'bizagencyusa.com';
     <title>Terms and Conditions</title>
     <meta name="description" content="Terms and Conditions - By using the Site, you agree to the collection and use of information in accordance with this policy.">
     <meta name="robots" content="index,follow">
-    <meta name="author" content="bizagencyusa.com">
+    <meta name="author" content="usabizagency.com">
     <link rel="canonical" href="terms-and-conditions.php">
     <meta property="og:title" content="Terms and Conditions">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.bizagencyusa.com/terms-and-conditions.php">
+    <meta property="og:url" content="https://www.usabizagency.com/terms-and-conditions.php">
     <meta property="og:description" content="Terms and Conditions - By using the Site, you agree to the collection and use of information in accordance with this policy.">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="https://www.bizagencyusa.com/terms-and-conditions.php">
+    <meta name="twitter:url" content="https://www.usabizagency.com/terms-and-conditions.php">
     <meta name="twitter:title" content="Terms and Conditions">
     <meta name="twitter:description" content="Terms and Conditions - By using the Site, you agree to the collection and use of information in accordance with this policy.">
     <?php include 'includes/css.php'; ?>
@@ -43,7 +43,7 @@ $GLOBALS['vars']['domain'] = 'bizagencyusa.com';
     </style>
   </head>
   <body>
-    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="bizagencyusa.com esta cargando..."></div>
+    <div class="bm-loader"><img src="/assets/img/bm2.svg" alt="usabizagency.com esta cargando..."></div>
     <?php include 'includes/menu.php'; ?>
     <div class="navbar-sentinel"></div>
     <div class="wrapper">
@@ -331,7 +331,7 @@ $GLOBALS['vars']['domain'] = 'bizagencyusa.com';
             </div>
             <div class="col-auto ml-md-0 mx-md-auto">
               <div class="icon d-inline-block"><i class="fi flaticon-mail text-primary icon"></i></div>
-              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@bizagencyusa.com</span></div>
+              <div class="icon-text d-inline-block pl-3"><span class="d-block h5 mb-2 text-uppercase text-muted">Email</span><span class="d-block h3 font-weight-bold text-white">contact@usabizagency.com</span></div>
             </div>
           </div>
         </div>

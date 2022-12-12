@@ -11,21 +11,21 @@ $notifications = $emailHelper->getMessages();
 	<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#f7941d">
-	<title>Boost your business's advertising with us | BizAgencyUSA</title>
+	<title>Boost your business's advertising with us | USABizAgency</title>
 	<meta name="description" content="We would be happy to help you grow big if you are ready. Spend less on marketing actions that don't work. Our advertising is efficient and safe.">
 	<meta name="robots" content="index,follow">
-	<meta name="author" content="bizagencyusa.com">
+	<meta name="author" content="usabizagency.com">
 	<link rel="canonical" href="index.php">
-	<meta property="og:title" content="Boost your business's advertising with us - BizAgencyUSA">
+	<meta property="og:title" content="Boost your business's advertising with us - USABizAgency">
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.bizagencyusa.com/contact-us/">
+	<meta property="og:url" content="https://www.usabizagency.com/contact-us/">
 	<meta property="og:description" content="We would be happy to help you grow big if you are ready. Spend less on marketing actions that don't work. Our advertising is efficient and safe.">
-	<meta property="og:image" content="https://www.bizagencyusa.com/assets/img/Headerservices.jpg">
+	<meta property="og:image" content="https://www.usabizagency.com/assets/img/Headerservices.jpg">
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:url" content="https://www.bizagencyusa.com/contact-us/">
-	<meta name="twitter:title" content="Boost your business's advertising with us - BizAgencyUSA">
+	<meta name="twitter:url" content="https://www.usabizagency.com/contact-us/">
+	<meta name="twitter:title" content="Boost your business's advertising with us - USABizAgency">
 	<meta name="twitter:description" content="We would be happy to help you grow big if you are ready. Spend less on marketing actions that don't work. Our advertising is efficient and safe.">
-	<meta name="twitter:image" content="https://www.bizagencyusa.com/assets/img/Headerservices.jpg">
+	<meta name="twitter:image" content="https://www.usabizagency.com/assets/img/Headerservices.jpg">
 	<?php include 'includes/css.php'; ?>
 	<style>
 	.page-header {
@@ -57,7 +57,7 @@ $notifications = $emailHelper->getMessages();
 </head>
 
 <body>
-	<div class="bm-loader"><img src="/assets/img/bm2.svg" alt="bizagencyusa.com esta cargando..."></div>
+	<div class="bm-loader"><img src="/assets/img/bm2.svg" alt="usabizagency.com esta cargando..."></div>
 	<?php include 'includes/menu.php'; ?>
 	<div class="navbar-sentinel"></div>
 	<div class="wrapper">
@@ -91,7 +91,7 @@ $notifications = $emailHelper->getMessages();
 							<p>We utilize state-of-the-art marketing techniques that produce real results, along with technical support and precise strategies to help business owners succeed.</p>
 							<ul class="column-count-2 list-unstyled">
 								<li class="mb-3"><span><strong>8660 W Flagler St. Suite 103</strong><br>Miami, Florida. 33144</span></li>
-								<li class="mb-3"><span><strong>(262) 822-3824</strong><br>contact@bizagencyusa.com</span></li>
+								<li class="mb-3"><span><strong>(262) 822-3824</strong><br>contact@usabizagency.com</span></li>
 								<li class="mb-3"><span><strong>Monday-friday</strong></span>
 									<br>9:00 am - 6:00 pm</li>
 								<li class="mb-3"><span><strong>Saturday</strong></span>
@@ -117,7 +117,7 @@ $notifications = $emailHelper->getMessages();
 				<div class="row">
 					<div class="col-md-6 mr-auto">
 						<div class="title-header">
-							<h2>Contact information<br><span class="orange d-block">bizagencyusa.com</span></h2></div>
+							<h2>Contact information<br><span class="orange d-block">usabizagency.com</span></h2></div>
 						<div class="shift-top short"><span class="d-block mt-7 ml-2"><p>In addition to guiding our clients through the entire growing process, we also celebrate their successes along the way.</p></span></div>
 					</div>
 					<div class="col-md-6 mt-6">
@@ -159,7 +159,7 @@ $notifications = $emailHelper->getMessages();
 					</div>
 					<div class="col-auto ml-md-0 mx-md-auto">
 						<div class="icon d-inline-block"><i class="fi flaticon-mail text-primary icon"></i></div>
-						<div class="icon-text d-inline-block pl-3"> <span class="d-block h3 font-weight-bold text-white">contact@bizagencyusa.com</span></div>
+						<div class="icon-text d-inline-block pl-3"> <span class="d-block h3 font-weight-bold text-white">contact@usabizagency.com</span></div>
 					</div>
 				
 				</div>
