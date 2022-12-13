@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/app/EmailHelper.php';
+//require_once __DIR__ . '/app/EmailHelper.php';
 //$emailHelper = new EmailHelper();
 //$emailHelper->sendMail();
 //$notifications = $emailHelper->getMessages();

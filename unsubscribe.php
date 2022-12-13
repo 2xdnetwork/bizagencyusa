@@ -1,8 +1,8 @@
 <?php
-require_once __DIR__ . '/app/EmailHelper.php';
-$emailHelper = new EmailHelper();
-$emailHelper->sendMail();
-$notifications = $emailHelper->getMessages();
+//require_once __DIR__ . '/app/EmailHelper.php';
+//$emailHelper = new EmailHelper();
+//$emailHelper->sendMail();
+//$notifications = $emailHelper->getMessages();
 ?>
 <!doctype html>
 <html lang="en">
