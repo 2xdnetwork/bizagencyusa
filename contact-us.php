@@ -1,8 +1,8 @@
 <?php
 require_once __DIR__ . '/app/EmailHelper.php';
-$emailHelper = new EmailHelper();
-$emailHelper->sendMail();
-$notifications = $emailHelper->getMessages();
+//$emailHelper = new EmailHelper();
+//$emailHelper->sendMail();
+//$notifications = $emailHelper->getMessages();
 ?>
 <!doctype html>
 <html lang="en">
@@ -122,6 +122,16 @@ $notifications = $emailHelper->getMessages();
 					</div>
 					<div class="col-md-6 mt-6">
 						<div class="contact-us-5_form pt-0 pt-md-7">
+
+                            <?php if ($_POST):?>
+                                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                    Your message successfully delivered
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            <?php endif; ?>
+
                             <?php include 'includes/errorMessage.php'?>
                             <?php include 'includes/successMessage.php'?>
 							<form name="form" method="POST" id="form_contact1" class="kwes-form" action="">
